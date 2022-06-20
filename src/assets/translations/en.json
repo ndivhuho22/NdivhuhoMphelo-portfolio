@@ -1,0 +1,25 @@
+{
+    "language": "en",
+    "dark_mode": "Dark mode",
+    "home_welcome": "Hi there",
+    "home_i": "i'm Ndivhuho N Mphelo",
+    "home_what_i_do": "I love coding",
+    "home_job": "Software Developer Graduate.",
+    "home_location": "Based in Sandton, South Africa.",
+    "home_contact_btn": "Get in touch",
+    "menu_about": "About",
+    "menu_experience": "Experience",
+    "menu_contact": "Contact",
+    "menu_resume": "Resume",
+    "about_desc": "Hello there, my name is Ndivhuho Nthompe Mphelo. I'm a very ambitious Software Developer.Also experienced with Cloud computing. I'm a competitive coder,C++ is my favarite language but when it comes to competitive coding, I prefer C#. If i need to define myself in one word that would be tech-obsessed!!.",
+    "experience_0_job": "Software Developer Intern",
+    "experience_0_overview": "It is a private institute, coder lover are based.It's a place where we discuss about new technologies, about IT solutions, about anything in relation to Code, we also do workshops and offer a calm coworking space to the members.",
+    "experience_0_duration": "Sep 2021 - May 2022",
+    "experience_1_job": "IT Helpdesk Support",
+    "experience_1_overview": "It is a public institute, where people work in different sectors are based.",
+    "experience_1_duration": "May 2018 - Dec 2018",
+    
+    "contact_full_name": "Full name",
+    "contact_email": "E-mail adress",
+    "contact_btn": "Send message"
+}
